@@ -1,5 +1,5 @@
 <?php
-namespace Paketim\Paketismim;
+namespace Guclu\Paketismim;
 
 use Illuminate\Database\Eloquent\Model;
 
